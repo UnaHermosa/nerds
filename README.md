@@ -2,7 +2,7 @@
 
 Учебный макет Nёrds.
 
-Домен: https://unahermosa.github.io/nerds/
+Домен: https://unahermosa.github.io/nerds
 
 Использованные технологии: HTML, CSS, JS, прогрессивное улучшение.
 
